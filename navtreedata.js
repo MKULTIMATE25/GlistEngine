@@ -25,6 +25,13 @@
 var NAVTREE =
 [
   [ "GlistEngine", "index.html", [
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
+      [ "Namespace Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ]
+      ] ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -32,11 +39,24 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", "functions_vars" ],
+        [ "Typedefs", "functions_type.html", null ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", null ],
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
+      [ "File List", "files.html", "files_dup" ],
+      [ "File Members", "globals.html", [
+        [ "All", "globals.html", "globals_dup" ],
+        [ "Functions", "globals_func.html", null ],
+        [ "Variables", "globals_vars.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ],
+        [ "Macros", "globals_defs.html", "globals_defs" ]
+      ] ]
     ] ]
   ] ]
 ];
@@ -44,18 +64,23 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"classgBaseParticles.html#a032ca3f4e351e20ffb363d7020584014",
-"classgColorAdjustments.html#a7058f701a06a2ae69b12dafe73d6cd96",
-"classgGUIButton.html#a87704dd76c8c98c5e5d2e040b563e957",
-"classgGUIForm.html#a7766ed10d8e46e7a0543f60f7e23a8f6",
-"classgGUIListbox.html#a6cbb7f4e8504bdcf72510dfb67dc6bf2",
-"classgGUIRadioButton.html#abd0061858c3f6cebd58f4858dcf69f64",
-"classgGUITimebox.html#abac06665cf37bb659a3bb61016f23e9c",
-"classgMaterial.html#a0829570c46f47b1515171c9c7f23e9df",
-"classgNode.html#a41a65cf61c60c82b19ce140364f98a26",
-"classgRenderer.html#ae0fa143cfdfe2582d2be4a5d3c062a16",
-"classgThread.html#ac956060e5aec43518e48ba52dc182ae3",
-"gSkinnedMesh_8h_source.html"
+"classgBaseGUIObject.html#ad906f7ad3dc14a9c27f5fe26c779051e",
+"classgCanvasManager.html#a74a7bd65c5ce09ea25c195600b143c76",
+"classgGLRenderEngine.html#a1a8990336cca89991e2eed09db68c1ca",
+"classgGUIContainer.html#a31a14ad8324c12ab8808b1a8912b383b",
+"classgGUIGraph.html#a8873c811549f894bcd355ab9b2e1962c",
+"classgGUINavigation.html",
+"classgGUISizer.html#a0dc33ec3ac73fd58274bfdeb07718f8a",
+"classgGUITreelist.html#a6539e51e327517ee6a54831ff91f628e",
+"classgLog.html#a150b1e7e081d3bab521bc9e5d7d7e23b",
+"classgMorphingMesh.html#ad93d1472db09feb256fd859df21fb61b",
+"classgRenderer.html#a48d8fabc173ce59e31b73d671f4e3630",
+"classgShader.html#a3e5d7edcaf854501b16f5d0c4e251178",
+"classgTexture.html#acca450f20de3e35a8dcef0a641dd2191aed33a01f115a1eb07c8829c1aab1c479",
+"gArc_8h.html",
+"gGUIToolbar_8h_source.html",
+"gShadowsMidtonesHighlights_8h.html",
+"structgGUITreelist_1_1Element.html#a6d3cad1a3e49b03fe642c4f0c836b505"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

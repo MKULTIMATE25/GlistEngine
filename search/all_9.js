@@ -1,12 +1,15 @@
 var searchData=
 [
-  ['mousedragged_343',['mouseDragged',['../classgBasePlugin.html#ae2e7e128c0417c8fb85c69f098eb79b1',1,'gBasePlugin']]],
-  ['mouseentered_344',['mouseEntered',['../classgBasePlugin.html#a9b753d149bbd3d09713a198c67280e37',1,'gBasePlugin']]],
-  ['mouseexited_345',['mouseExited',['../classgBasePlugin.html#ab1c946e193a3140f8ea6a83eca817434',1,'gBasePlugin']]],
-  ['mousemoved_346',['mouseMoved',['../classgBasePlugin.html#a9942b846a93a14f3365f281234dc7c06',1,'gBasePlugin']]],
-  ['mousepressed_347',['mousePressed',['../classgBasePlugin.html#a4b639ede6b82228702f8b2e4c20b2742',1,'gBasePlugin']]],
-  ['mousereleased_348',['mouseReleased',['../classgBasePlugin.html#af93cdc8d92c74d491fbe6c03c8023805',1,'gBasePlugin']]],
-  ['mousescrolled_349',['mouseScrolled',['../classgBasePlugin.html#af0db2788369286578442131329806717',1,'gBasePlugin']]],
-  ['movex_350',['moveX',['../classgRect.html#ab9474c63fee1840f3d7055be8d7ad155',1,'gRect::moveX(int speedX)'],['../classgRect.html#a643a3bfdea68f526381a6d737c7e65c4',1,'gRect::moveX(float speedX)']]],
-  ['movey_351',['moveY',['../classgRect.html#a41a52e274bf1e18302029e01c2158090',1,'gRect::moveY(int speedY)'],['../classgRect.html#a44b4c1f23a4402d50479504c427ecad9',1,'gRect::moveY(float speedY)']]]
+  ['h_0',['h',['../classgColorHSL.html#a5d8efa4aec72436044b8b893b0fce406',1,'gColorHSL']]],
+  ['hasselectdata_1',['hasSelectData',['../classgDatabase.html#a795d21f38bf77f0a7f06af1cea79edba',1,'gDatabase']]],
+  ['hcolor_2',['hcolor',['../classgGUIButton.html#aaa8188936b173abb486cf8beb8fc7719',1,'gGUIButton']]],
+  ['height_3',['height',['../classgBaseGUIObject.html#aa6e164509e25553c3a222f76982829c4',1,'gBaseGUIObject::height'],['../classgRenderer.html#a10ba9eb49755cea48500ab0046baf6e4',1,'gRenderer::height'],['../classgTexture.html#a6f4a7e8cabbc84efd1eb7582e47d1ea1',1,'gTexture::height']]],
+  ['hide_4',['hide',['../classgGUIDialogue.html#aa6480ead59091483d7a498f5e9f54d10',1,'gGUIDialogue::hide()'],['../classgGUIForm.html#a8c1cedd62b1d87200530bc56044ddfdf',1,'gGUIForm::hide()']]],
+  ['hidedialogue_5',['hideDialogue',['../classgGUIManager.html#ac99d1cdee174f2df0b2fcc374de6063e',1,'gGUIManager']]],
+  ['hidenotify_6',['hideNotify',['../classgBaseCanvas.html#ab8ad7cff194b3ea7c6788175b2a7ec40',1,'gBaseCanvas']]],
+  ['hideprogressbar_7',['hideProgressBar',['../classgGUIForm.html#ae144ebfcadd2be3cb84e2071db90e0c4',1,'gGUIForm']]],
+  ['horizontalscroll_8',['horizontalscroll',['../classgGUIScrollable.html#a77b4beafa79ff7aca67fa85c6337d6eb',1,'gGUIScrollable']]],
+  ['horizontalscrollbarpos_9',['horizontalscrollbarpos',['../classgGUIScrollable.html#a98a011c866297b5cac788756e9731a0e',1,'gGUIScrollable']]],
+  ['horizontalscrollclickedtime_10',['horizontalscrollclickedtime',['../classgGUIScrollable.html#ab82e97a19da3dc380a2cc69aefa1f83f',1,'gGUIScrollable']]],
+  ['horizontalscrolldragstart_11',['horizontalscrolldragstart',['../classgGUIScrollable.html#aee58c998062bf6de5bcdfb1a11c0651f',1,'gGUIScrollable']]]
 ];

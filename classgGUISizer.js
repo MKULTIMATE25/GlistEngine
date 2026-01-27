@@ -8,7 +8,7 @@ var classgGUISizer =
     [ "enableBorders", "classgGUISizer.html#a7ab6b5531f15e0beb45e39e2d429cced", null ],
     [ "enableResizing", "classgGUISizer.html#a5c73258d352ba35ca29fafd1b0451b7e", null ],
     [ "getColumnNum", "classgGUISizer.html#a9d7ee6b06e2727b212887a85fd9dcbd5", null ],
-    [ "getControl", "classgGUISizer.html#a5aac1991f76f680b97a7fe3df27e3827", null ],
+    [ "getControl", "classgGUISizer.html#a22ae19bf2367c771f2eaa871e24dd195", null ],
     [ "getCursor", "classgGUISizer.html#adbe9d32b764d5d2a4eab2280ef15f606", null ],
     [ "getLineNum", "classgGUISizer.html#abebe735e8fc4552755fb289298e65f3a", null ],
     [ "getSizerType", "classgGUISizer.html#a5ddfcb7edd257628249563dc28809e7e", null ],
@@ -35,7 +35,7 @@ var classgGUISizer =
     [ "setControl", "classgGUISizer.html#a8245b1f5ae3970668709e2b579123603", null ],
     [ "setLineProportions", "classgGUISizer.html#a81a4769ca9b69780a7feec9139591b3e", null ],
     [ "setSize", "classgGUISizer.html#ae0b1a1c77bf9411470937562c5c59344", null ],
-    [ "setSlotPadding", "classgGUISizer.html#afbdf57f77a43e4138af324c1c892f743", null ],
+    [ "setSlotPadding", "classgGUISizer.html#a0dc33ec3ac73fd58274bfdeb07718f8a", null ],
     [ "update", "classgGUISizer.html#a5f077ff3efbf401fa7dae9fab0fbbe09", null ],
     [ "windowResized", "classgGUISizer.html#a8f99b2a44be6584f58c85d0118992806", null ]
 ];

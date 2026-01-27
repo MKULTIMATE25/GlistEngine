@@ -13,10 +13,12 @@ var classgFile =
       [ "FILEMODE_APPEND", "classgFile.html#a3819f303037060ce0d25aa23a135d94fa43b132378680d836921b594b4cd4fa13", null ]
     ] ],
     [ "gFile", "classgFile.html#acfe819503ff1927aace7d2b58112b8c9", null ],
+    [ "gFile", "classgFile.html#a5a9e9ebc0f7c86bbb0172465c2962375", null ],
     [ "~gFile", "classgFile.html#a93788d9d3542bab2657c156c079ae762", null ],
     [ "close", "classgFile.html#aa3f7a3d79412d1192ecd1210d5b39a14", null ],
     [ "exists", "classgFile.html#a6bfc213160f93df37904c12b8a52fab7", null ],
-    [ "getBytes", "classgFile.html#a7b3f3fe2205f75970b5c2de90d602d26", null ],
+    [ "getBytes", "classgFile.html#abc418b83b72625051a990a4e9ae43027", null ],
+    [ "getBytesConst", "classgFile.html#a7c3d24c03e53dec2c7b5ab60c6547405", null ],
     [ "getDirectory", "classgFile.html#ae634889c4747c8484a0c4294f9b38a30", null ],
     [ "getFilename", "classgFile.html#a8f5d8bb309e14113ecc1b76ffdaca486", null ],
     [ "getMode", "classgFile.html#a4299311553afc40191493bcee0f20e59", null ],
@@ -31,6 +33,7 @@ var classgFile =
     [ "isOpen", "classgFile.html#ae80ada36638daaeeae86c35dd547afe1", null ],
     [ "load", "classgFile.html#adba2c006943d02a2a0dcbb66cc967290", null ],
     [ "loadFile", "classgFile.html#a52b73ee9d4934012344616d2805292d7", null ],
+    [ "write", "classgFile.html#a5cab282d2823f5da3ee826c4eb2aaed9", null ],
     [ "write", "classgFile.html#a09cd0e8b06925e4b8c4881bc2352ecc3", null ],
     [ "write", "classgFile.html#a0e044a78038df3762ae2d7649ff1575a", null ]
 ];

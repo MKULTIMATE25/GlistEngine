@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['play_799',['play',['../classgFmodSound.html#ab20100e61684d05549e043688c8da88f',1,'gFmodSound']]]
+  ['joystickconnected_0',['joystickConnected',['../classgBaseCanvas.html#a523f63e59258e4ff02d9000ed2342362',1,'gBaseCanvas']]]
 ];
